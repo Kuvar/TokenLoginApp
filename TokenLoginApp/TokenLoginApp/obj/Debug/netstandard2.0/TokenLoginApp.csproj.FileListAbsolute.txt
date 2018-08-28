@@ -1,0 +1,13 @@
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\bin\Debug\netstandard2.0\TokenLoginApp.deps.json
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\bin\Debug\netstandard2.0\TokenLoginApp.dll
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\TokenLoginApp.csprojAssemblyReference.cache
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\TokenLoginApp.csproj.CoreCompileInputs.cache
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\TokenLoginApp.AssemblyInfoInputs.cache
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\TokenLoginApp.AssemblyInfo.cs
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\bin\Debug\netstandard2.0\TokenLoginApp.pdb
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\TokenLoginApp.dll
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\TokenLoginApp.pdb
+E:\Projects\TokenLoginApp\TokenLoginApp\TokenLoginApp\obj\Debug\netstandard2.0\DashboardPage.xaml.g.cs
